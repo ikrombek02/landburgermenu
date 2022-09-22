@@ -30,7 +30,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 999;
+    z-index: 999 !important;
     animation: bg_animate 2s ease-in;
 }
 
